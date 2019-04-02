@@ -171,4 +171,46 @@ a {
         opacity: 0;
         transition: 0.6s;
       }  
-      
+      button {
+        /* display: inline-block;
+        height: 134px;
+        padding: 0;
+        margin: 0;
+        vertical-align: top;
+        width: 104px;
+        border-radius: 25%;
+        border: none;
+        padding: 10px; */
+    width: 300px;
+    height: 300px;
+    margin-top: 45px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    border-radius: 25%;
+    }
+    
+    #close-image img {
+        display: block;
+        height: 300px;  
+        width: 300px;
+        border-radius: 25%;
+    }
+    
+    #close-CSS {
+        /* background-image: url( ../images/naruapp.jpg ); */
+        /* background-size: cover; */
+        width: 300px;
+        height: 300px;
+        margin-top: 45px;
+        color: papayawhip;
+        font-weight: bold;
+        text-align: center;
+        font-size: 50px;
+        font-family: 'Oswald', sans-serif;
+        color: white;
+        border-radius: 25%;
+    }
